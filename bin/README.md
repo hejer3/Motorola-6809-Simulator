@@ -1,0 +1,1 @@
+Développement d'un émulateur logiciel complet du processeur 8 bits Motorola 6809. Ce projet permet de simuler l'exécution d'instructions machine, la gestion des registres et l'adressage mémoire à travers une interface graphique intuitive.
